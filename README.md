@@ -1,4 +1,14 @@
 # four-card-feature-section
 Four-card-feature-section
 
-[live preview](https://four-card-feature-section-frontendmaster.netlify.app)
+
+## Demo
+
+Insert gif or link to demo
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
