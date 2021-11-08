@@ -4,8 +4,7 @@ Four-card-feature-section
 
 ## Demo
 
-Insert gif or link to demo
-
+[Link](https://four-card-feature-section-frontendmaster.netlify.app)
 
 ## License
 
